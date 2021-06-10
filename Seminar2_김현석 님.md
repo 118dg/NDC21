@@ -1,4 +1,4 @@
-# ✨NDC21 https://ndc.nexon.com/session/sessionSchedule
+# ✨[NDC21](https://ndc.nexon.com/session/sessionSchedule)
 
 ## [콘솔 로그라이트 제작기 - <던전림버스> 포스트모템]
 
@@ -42,7 +42,8 @@ Email : madmaiz@naver.com
 - 2021.02 스팀 출시
 - 2021.03 한국 닌텐도 E숍 출시
 
-
-
+1. 프로젝트의 시작 : 기획과 콘셉트
+* 개발 목표의 설정
+  +  
 
 
