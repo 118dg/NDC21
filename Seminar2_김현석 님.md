@@ -55,6 +55,12 @@ Email : madmaiz@naver.com
         - 죽었을 때 하기 싫어지는 요소 줄이기
         - 죽었을 때 완전 리셋보다는 사소한 것이라도 남기기
 
+        죽었을 때, 여운 남기기
+        => 플레이 타임 1시간 이내 (로그라이크 게임은 죽으면 리셋)
+        => 시스템 탓 X, 유저의 실수로 유도해야 재도전 가능성이 높음
+        => 사소한 것 남기기 (예) 도전 과제
+        => 매번 경험적 지식 (예) 다시 하면 할 수 있을 것 같아!
+
 
 [로그라이크 정의](https://ko.wikipedia.org/wiki/%EB%A1%9C%EA%B7%B8%EB%9D%BC%EC%9D%B4%ED%81%AC)   
 [로그라이크 설명](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=all100eeda&logNo=220665280840)   
