@@ -1,4 +1,4 @@
-# ✨NDC21 [NDC21 전체 세션](https://ndc.nexon.com/session/sessionSchedule)
+# ✨[NDC21](https://ndc.nexon.com/session/sessionSchedule)
 
 ## [4차 산업혁명 시대 게임의 정의 - 전통의 게임을 넘어 새로운 게임을 향해]
 
