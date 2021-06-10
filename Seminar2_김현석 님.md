@@ -51,8 +51,11 @@ Email : madmaiz@naver.com
         
     2. 콘셉트 기획
         
-        - '고전 슈퍼패미콤용 도트RPG 같다' -> game keyword : 
+        - '고전 슈퍼패미콤용 도트RPG 같다' -> game keyword : 고전
+        
+        - 죽었을 때 하기 싫어지는 요소 줄이기
+        - 죽었을 때 완전 리셋보다는 사소한 것이라도 남기기
 
 
-[로그라이크 정의](https://ko.wikipedia.org/wiki/%EB%A1%9C%EA%B7%B8%EB%9D%BC%EC%9D%B4%ED%81%AC)
-[로그라이크 설명](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=all100eeda&logNo=220665280840)
+[로그라이크 정의](https://ko.wikipedia.org/wiki/%EB%A1%9C%EA%B7%B8%EB%9D%BC%EC%9D%B4%ED%81%AC)   
+[로그라이크 설명](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=all100eeda&logNo=220665280840)   
