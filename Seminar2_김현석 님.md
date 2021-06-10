@@ -10,8 +10,8 @@
 강연을 듣는 분들이 신입 기획자이거나 기획 지망생이라면, 기획적인 마인드나 판단 기준에 대한 인사이트를 얻으실 수 있고,   
 인디 게임이나 아마추어 게임 개발자라면 전체적인 프로세스와 개발 전후의 이슈들을 확인하실 수 있을 것으로 기대합니다.   
 
-🔗 https://ndc.nexon.com/session/sessionView?sessNo=100007318   
-🔗 https://youtu.be/Kue7rwq7oFE   
+🔗 [ndc 세미나 링크](https://ndc.nexon.com/session/sessionView?sessNo=100007318)   
+🔗 [유튜브 링크](https://youtu.be/Kue7rwq7oFE)   
 
 ## 💻 발표자분
 
