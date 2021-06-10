@@ -70,9 +70,14 @@ Email : madmaiz@naver.com
         
         📍 동기부여 순서 결정   
         => 모든 요소 연결, 엔딩까지 지속(단기/중기/장기)
-        
-2. 게임 
-
-
+ 
 [로그라이크 정의](https://ko.wikipedia.org/wiki/%EB%A1%9C%EA%B7%B8%EB%9D%BC%EC%9D%B4%ED%81%AC)   
 [로그라이크 설명](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=all100eeda&logNo=220665280840)   
+   
+   
+2. 게임 개발   
+
+    1. 자동 생성 맵
+
+
+
