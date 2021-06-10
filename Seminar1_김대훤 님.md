@@ -1,6 +1,7 @@
 # ✨NDC21 https://ndc.nexon.com/session/sessionSchedule
 
 ## [4차 산업혁명 시대 게임의 정의 - 전통의 게임을 넘어 새로운 게임을 향해]
+https://ndc.nexon.com/session/sessionView?sessNo=100007279
 
 기술의 발전과 맞물려 다양한 형태의 디지털 놀이 형태가 탄생을 하고 그것을 즐기는 문화가 확산되고 있는 이 시점에
 게임이 더 많은 대중에게 다가갈 수 있는 향후의 지향점과 그 모습에 대해서 많은 분들과 생각을 나누고자 합니다.
