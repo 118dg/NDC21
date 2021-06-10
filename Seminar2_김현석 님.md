@@ -30,3 +30,8 @@ NDC에는 2011년, 2015년에 참가했고, 그 외 IGC, KGC 등
 Email : madmaiz@naver.com
 
 ## 📌 내용 요약
+
+던전 림버스라는 게임의 포스트모뎀 형태로 강연
+*포스트모뎀 : https://brunch.co.kr/@svillustrated/13
+
+
