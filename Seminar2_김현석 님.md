@@ -69,7 +69,9 @@ Email : madmaiz@naver.com
         (예) 맵과 오브젝트 차별화, 죽어도 실패가 아님, 거대 보스 등장
         
         동기부여 순서 결정
-        => 모든 요소 연결, 엔딩까지 지속
+        => 모든 요소 연결, 엔딩까지 지속(단기/중기/장기)
+        
+2. 게임 
 
 
 [로그라이크 정의](https://ko.wikipedia.org/wiki/%EB%A1%9C%EA%B7%B8%EB%9D%BC%EC%9D%B4%ED%81%AC)   
