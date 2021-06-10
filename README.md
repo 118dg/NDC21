@@ -1,1 +1,1 @@
-# NDC21
+# ✨[NDC21](https://ndc.nexon.com/session/sessionSchedule)
