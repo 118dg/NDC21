@@ -35,7 +35,6 @@ Email : madmaiz@naver.com
 
 ***Q. 포스트모뎀? https://brunch.co.kr/@svillustrated/13***
 
-        
 
 >던전 림버스 : 도트형 턴제 로그라이트 게임
 - 2020.11 일본 닌텐도 E숍 출시
