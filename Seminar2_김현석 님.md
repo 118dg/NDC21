@@ -41,7 +41,8 @@ Email : madmaiz@naver.com
     1. 개발 목표의 설정
         - 'Quest of Dungeons'라는 벤치마킹형 게임보다만 발전한 것이면 OK
         - 5년 내 1억
-        
-        - 장르, 리소스, 개발 기간, 인력의 제약
+        - 장르(로그라이크), 리소스, 개발 기간, 인력의 제약
 
 
+[로그라이크 정의](https://ko.wikipedia.org/wiki/%EB%A1%9C%EA%B7%B8%EB%9D%BC%EC%9D%B4%ED%81%AC)
+[로그라이크 설명](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=all100eeda&logNo=220665280840)
