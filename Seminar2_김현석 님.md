@@ -33,9 +33,9 @@ Email : madmaiz@naver.com
 
 '던전 림버스'라는 게임의 포스트모뎀 형태로 강연   
 
-***Q. 포스트모뎀? : https://brunch.co.kr/@svillustrated/13***
+***Q. 포스트모뎀? https://brunch.co.kr/@svillustrated/13***
 
-던전 림버스 = 도트형 턴제 로그라이트 게임
+>던전 림버스 : 도트형 턴제 로그라이트 게임
 - 2020.11 일본 닌텐도 E숍 출시
 - 2020.12 미국, 유럽, 홍콩 E숍 출시
 - 2021.02 스팀 출시
