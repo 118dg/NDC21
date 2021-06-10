@@ -33,7 +33,7 @@ Email : madmaiz@naver.com
 
 ### 던전 림버스 : 도트형 턴제 로그라이트 게임 
 
-***[포스트모뎀](https://brunch.co.kr/@svillustrated/13) 형태로 강연!  ***  
+*** [포스트모뎀](https://brunch.co.kr/@svillustrated/13) 형태로 강연!  ***  
 
 
 1. 프로젝트의 시작 : 기획과 콘셉트
